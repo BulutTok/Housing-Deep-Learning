@@ -249,4 +249,5 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Author:** Bulut Tok
 **Contact:** [buluttok2013@gmail.com]
+
 Feel free to open issues or pull requests on GitHub for questions, suggestions, or bug reports.
